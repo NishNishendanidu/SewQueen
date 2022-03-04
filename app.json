@@ -1,5 +1,5 @@
 {
-    "name": "KING-ISUWA-BOT",
+    "name": "SEW Queen-X",
     "description": "WhatsAsena project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
     "logo": "https://i.hizliresim.com/6Bbj7i.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
@@ -8,7 +8,7 @@
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
-        "_SEW_QUEEN_SESSION": {
+        "_SEW_QUEEN-X_SESSION": {
             "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Asena Session.",
             "required": true
         },
@@ -39,7 +39,7 @@
         "HANDLERS": {
             "description": "For commands.",
             "required": true,
-            "value": "^[.!;]"
+            "value": ""
         },
         "BAD_KICK": {
             "description": "It's true, kick the member who using bad word.අසභ්‍ය වචන පාවිච්චි කරන පුද්ගලයන් ගෲපයෙන් ඉවත් කරයි ",
